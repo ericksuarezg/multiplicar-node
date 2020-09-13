@@ -1,0 +1,16 @@
+{
+  "name": "02fundamentosnode",
+  "version": "1.0.0",
+  "description": "esta es una instalacion de linea de comandos ",
+  "main": "03paquetes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ericson",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.0.3"
+  },
+  "devDependencies": {}
+}
